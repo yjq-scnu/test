@@ -2,3 +2,4 @@
 a test msg.
 -feature-A
 fix-B
+-feature-C
